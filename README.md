@@ -34,7 +34,7 @@ A modern web-based food delivery system where users can register, log in using G
 | **Backend**     | Java / Node.js / PHP *(your backend here)* |
 | **Database**    | MySQL / MongoDB *(your DB choice)* |
 | **Authentication** | Gmail-based login *(OAuth / custom login logic)* |
-| **Tools & IDEs** | VS Code, Postman, MySQL Workbench |
+| **Tools & IDEs** | Eclipse, MySQL Workbench |
 
 > 📌 *Customize the stack above according to your implementation.*
 
